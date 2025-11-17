@@ -61,3 +61,4 @@ print(data)
 # print(std_dev / mean)
 
 # 1.08 1.5 0.7 4.1 0.575 0.81
+print("test")
